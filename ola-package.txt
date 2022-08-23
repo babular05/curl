@@ -1,0 +1,1 @@
+https://zonestoraccount.blob.core.windows.net/zone-files/zoneswitch.networkcli.zip?sv=2019-12-12&ss=bfqt&srt=sco&sp=rwdlacupx&se=2026-02-08T22:54:26Z&st=2021-02-08T14:54:26Z&spr=https&sig=bjk7xOUJf%2BkNNX%2BWGKjIjClS1%2FpSdTM7sEVWAbV%2Bcbk%3D
